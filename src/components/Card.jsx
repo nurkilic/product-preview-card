@@ -4,7 +4,7 @@ import icon from "../assets/images/icon-cart.svg";
 
 const Card = () => {
   return (
-    <div className="max-w-[37.5rem] h-auto w-full rounded-lg flex max-sm:flex-col max-sm:rounded-lg m-6">
+    <div className="max-w-[37.5rem] h-auto w-full rounded-lg flex max-sm:flex-col max-sm:rounded-lg ">
       <article className="w-1/2 max-sm:w-full rounded-l-lg">
         <img
           className="max-sm:hidden  rounded-l-lg object-cover h-full"

@@ -8,8 +8,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nurkilic/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/nurkilic/product-preview-card)
+- Live Site URL: [https://product-preview-card-tw.netlify.app/](https://product-preview-card-tw.netlify.app/)
 
 ### Built with
 

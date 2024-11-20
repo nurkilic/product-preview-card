@@ -32,7 +32,6 @@ const Card = () => {
           <img src={icon} className="pr-3 h-4" alt="" />
           <span id="add-to-cart-span">Add to Cart</span>
         </div>
-        <p></p>
       </article>
     </div>
   );
